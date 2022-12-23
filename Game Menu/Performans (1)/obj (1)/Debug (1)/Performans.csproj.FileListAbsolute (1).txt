@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Enes Topçu\Performans\bin\Debug\Performans.exe.config
+C:\Users\Administrator\Desktop\Enes Topçu\Performans\bin\Debug\Performans.exe
+C:\Users\Administrator\Desktop\Enes Topçu\Performans\bin\Debug\Performans.pdb
+C:\Users\Administrator\Desktop\Enes Topçu\Performans\obj\Debug\Performans.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Enes Topçu\Performans\obj\Debug\Performans.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Enes Topçu\Performans\obj\Debug\Performans.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Enes Topçu\Performans\obj\Debug\Performans.exe
+C:\Users\Administrator\Desktop\Enes Topçu\Performans\obj\Debug\Performans.pdb
